@@ -1,0 +1,859 @@
+*{
+    margin:0;
+}
+.header{
+    background-color:black;
+    width:100%;
+    height:65px;
+}
+.pic{
+    width:66px;
+    height:66px;
+    position: relative;
+    left:90px;
+    bottom:1px;
+}
+.heading1{
+    color:#FFFFFF;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-weight: 450;
+    line-height: 111px;
+    position: relative;
+    left:180px;
+    bottom:93px;
+}
+.heading2{
+    color:#FFFFFF;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-weight: 450;
+    line-height: 111px;
+    position: relative;
+    left:298px;
+    bottom:202px;
+}
+.heading3{
+    color:#FFFFFF;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-weight: 450;
+    line-height: 111px;
+    position: relative;
+    left:370px;
+    bottom:313px;
+}
+.heading4{
+    color:#FFFFFF;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-weight: 450;
+    line-height: 111px;
+    position: relative;
+    left:990px;
+    bottom:425px;
+}
+.heading5{
+    color:#FFFFFF;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-weight: 450;
+    line-height: 111px;
+    position: relative;
+    left:1050px;
+    bottom:537px;  
+}
+.heading6{
+    color:#FFFFFF;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-weight:450;
+    line-height: 111px;
+    position: relative;
+    left:1150px;
+    bottom:649px;  
+}
+.box{
+    border-color: #FFFFFF;
+    height:32px;
+    background-color: #FFFFFF;
+    width:119px;
+    font-weight: 450;
+    position:relative;
+    left:1240px;
+    bottom:720px;
+}
+.container{
+    width:100%;
+    height:px;
+}
+.pic1{
+    width:100%;
+    
+}
+.innercontainer{
+    width:560px;
+    height:500px;
+    background-color:#FFFFFF;
+    position: relative;
+    left:226px;
+    bottom:600px;
+
+}
+.pic2{
+    width:24px;
+    height:24px;
+    position: relative;
+    left:80px;
+    top:40px;
+}
+.pic3{
+    width:24px;
+    height:24px;
+    position:relative;
+    left:250px;
+    bottom:8px;
+}
+.pic4{
+    width:24px;
+    height:24px;
+    position: relative;
+    left:455px;
+    bottom:62px;
+}
+.subhead{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight: 500;
+    line-height: 16px;
+    position:relative;
+    left:77px;
+    top:40px;
+}
+.subhead1{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight: 500;
+    line-height: 16px;
+    position: relative;
+    left:235px;
+    bottom:5px;
+}
+.subhead2{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight: 500;
+    line-height: 16px;
+    position: relative;
+    left:450px;
+    bottom:63px; 
+}
+.subhead3{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size:50px;
+    font-weight:650;
+    position:relative;
+    left:58px;
+    top:1px;
+}
+.box1{
+    border-color: #f6f6f6;
+    background-color: #f6f6f6;
+    height:53px;
+    width:480px;
+    position:relative;
+    left:50px;
+    top:38px;
+    font-size:17px;
+    color: grey;
+    padding-right:250px;
+}
+.box2{
+    border-color: #f6f6f6;
+    background-color: #f6f6f6;
+    height:53px;
+    width:480px;
+    position:relative;
+    left:50px;
+    top:45px;
+    font-size:17px;
+    color:grey;
+    padding-right:280px; 
+}
+.box3{
+    background-color: black;
+    border-color: black;
+    height:40px;
+    width:150px;
+    position:relative;
+    left:50px;
+    top:80px;
+    font-size:17px;
+    color:#FFFFFF;
+}
+.box4{
+    border-color: #f6f6f6;
+    background-color: #f6f6f6;
+    height:40px;
+    width:150px;
+    position:relative;
+    left:80px;
+    top:80px;
+    font-size:17px;
+    color:black;
+}
+.container1{
+    width:100%;
+    height:300px;
+}
+.pic5{
+    width:100%;
+    height:300px;
+    position:relative;
+    bottom:510px;
+}
+.heading7{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:40px;
+    font-weight:495px;
+    position: relative;
+    bottom:760px;
+    left:150px;
+}
+.paragraph{
+    font-size:19px;
+    font-weight:549;
+    position:relative;
+    bottom:730px;
+    left:150px;
+}
+.box5{
+    width:140px;
+    height:50px;
+    background-color: black;
+    border-color: black;
+    color: #FFFFFF;
+    font-size:16px;
+    position: relative;
+    bottom:700px;
+    left:150px;
+}
+.container2{
+    width:100%;
+    height:1968px;
+    position: relative;
+    bottom:510px;
+}
+.heading8{
+    font-weight:500;
+    font-size:40px;   
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position:relative;
+    color:#333333;
+    top:55px;
+    left:150px;
+}
+.pic6{
+    width:558px;
+    height:372px;
+    position:relative;
+    top: 90px;
+    left:150px;
+}
+.pic7{
+    width:558px;
+    height:372px;
+    position:relative;
+    top:90px;
+    left:222px;
+}
+.heading9{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:499;
+    font-size:23px;
+    color:#333333;
+    position:relative;
+    top:128px;
+    left:150px;
+}
+.heading10{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:499;
+    font-size:23px;
+    color:#333333;
+    position:relative;
+    top:100px;
+    left:800px;
+}
+.paragraph1{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:109px;
+    left:150px;
+}
+.paragraph2{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:58px;
+    left:800px; 
+}
+.heads{
+   font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-weight:350;
+   font-size:19px;
+   color:#333333;
+   position:relative;
+   top:112px;
+   left:150px;
+   border-bottom:1px solid;
+   border-color: #333333;
+   width:300px;
+}
+.heads1{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:85px;
+    left:500px;
+    border-bottom:1px solid;
+    border-color: #333333;
+    width:180px;
+}
+.heads2{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:58px;
+    left:800px;
+    border-bottom:1px solid;
+    border-color: #333333;
+    width:115px;
+}
+.pic8{
+    position:relative;
+    top:150px;
+    left:154px;
+}
+.pic9{
+    position: relative;
+    top:150px;
+    left:586px
+}
+.pic10{
+    position: relative;
+    top:150px;
+    left:970px 
+}
+.heading11{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:499;
+    font-size:23px;
+    color:#333333;
+    position:relative;
+    top:175px;
+    left:150px;
+}
+.heading12{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:499;
+    font-size:23px;
+    color:#333333;
+    position:relative;
+    top:145px;
+    left:610px;
+}
+.heading13{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:499;
+    font-size:23px;
+    color:#333333;
+    position:relative;
+    top:115px;
+    left:1025px;
+}
+.paragraph3{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:132px;
+    left:149px;
+}
+.paragraph4{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:80px;
+    left:610px;
+}
+.paragraph5{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:28px;
+    left:1024px;
+}
+.heads3{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:60px;
+    left:150px;
+    border-bottom:1px solid;
+    border-color: #333333;
+    width:190px;
+}
+.heads4{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    top:36px;
+    left:610px; 
+    border-bottom:1px solid;
+    border-color: #333333;
+    width:140px;
+}
+.heads5{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:350;
+    font-size:19px;
+    color:#333333;
+    position:relative;
+    bottom:-9px;
+    left:1027px;
+    border-bottom:1px solid;
+    border-color: #333333;
+    width:162px;
+}
+.heading14{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:700;
+    font-size:36px;
+    color:#333333;
+    position:relative;
+    top:150px;
+    left:160px;
+}
+.pic11{
+position:relative;
+left:200px;
+top:200px;
+
+}
+.pic12{
+    position:relative;
+    left:610px;
+    top:200px;
+}
+.pic13{
+   position:relative;
+   right:175px;
+   top:500px;
+}
+.pic14{
+   position:relative;
+   left:230px;
+   top:500px;
+}
+.heading15{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:500;
+    font-size:32px;
+    color:#333333;
+    position:relative;
+    top:20px;
+    left:420px;
+}
+.heading16{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:500;
+    font-size:29px;
+    color:#333333;
+    position:relative;
+    top:-22px;
+    left:996px;
+}
+.heading17{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:500;
+    font-size:29px;
+    color:#333333;
+    position:relative;
+    top:250px;
+    left:436px;
+}
+.heading18{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:500;
+    font-size:29px;
+    color:#333333;
+    position:relative;
+    top:210px;
+    left:1000px;
+}
+.paragraph6{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:normal;
+    font-size:16px;
+    color:#333333;
+    position:relative;
+    top:-90px;
+    left:420px;
+}
+.paragraph7{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:normal;
+    font-size:16px;
+    color:#333333;
+    position:relative;
+    top:-155px;
+    left:998px;
+}
+.paragraph8{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:normal;
+    font-size:16px;
+    color:#333333;
+    position:relative;
+    top:115px;
+    left:437px;
+}
+.paragraph9{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:normal;
+    font-size:16px;
+    color:#333333;
+    position:relative;
+    top:70px;
+    left:1002px;
+}
+.pic15{
+    width:29px;
+    height:36px;
+    position:relative;
+    bottom:290px;
+    left:700px;
+}
+.pic16{
+    width:29px;
+    height:36px;
+    position: relative;
+    bottom:290px;
+    left:1390px
+}
+.pic17{
+    width:29px;
+    height:36px;
+    position: relative;
+    top:20px;
+    left:648px
+}
+.pic18{
+    width:29px;
+    height:36px;
+    position: relative;
+    top:20px;
+    left:1310px
+}
+.subcontainer{
+    width:100%;
+    height:406px;
+    background-color: rgb(240, 242, 242);
+    position:relative;
+    top:140px;
+}
+.heading19{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:750;
+    font-size:35px;
+    position:relative;
+    top:80px;
+    left:150px;
+}
+.innercontainer1{
+    width:558px;
+    height:198px;
+    background-color:white;
+    position:relative;
+    top:100px;
+    left:160px
+
+}
+.innercontainer2{
+    width:558px;
+    height:198px;
+    background-color:white;
+    position: relative;
+    bottom:100px;
+    left:740px;
+}
+.pic20{
+    width:180px;
+    height:180px;
+    position: relative;
+    top:10px;
+    left:10px;
+}
+.pic21{
+    width:180px;
+    height:180px;
+    position: relative;
+    top:10px;
+    left:10px;  
+}
+.logo{
+    width:50px;
+    height:50px;
+    position:relative;
+    bottom:50px;
+    right:107px;
+}
+.logo1{
+    width:50px;
+    height:50px;
+    position:relative;
+    bottom:50px;
+    right:107px;
+}
+.subhead4{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size:24px;
+    font-weight:700;
+    position:relative;
+    left:200px;
+    bottom:120px;
+}
+.subhead5{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size:16px;
+    font-weight:normal;
+    position:relative;
+    left:200px;
+    bottom:120px;
+}
+.icon{
+    width:29px;
+    height:36px;
+    position:relative;
+    bottom:160px;
+    left:490px;
+}
+.subhead6{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size:24px;
+    font-weight:700;
+    position:relative;
+    left:200px;
+    bottom:120px;
+}
+.subhead7{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-size:16px;
+    font-weight:normal;
+    position:relative;
+    left:200px;
+    bottom:120px;
+}
+.heading20{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    position:relative;
+    top:200px;
+    left:160px;
+    border-bottom:1px solid;
+    width:550px
+
+} 
+.heading21{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    position: relative;
+    top:155px;
+    left:750px;
+    border-bottom: 1px solid;
+    width:550px;
+}
+.icon1{
+    width:50px;
+    height:80px;
+    position:relative;
+    top:72px;
+    left:1250px
+
+}
+.icon2{
+    width:50px;
+    height:80px;
+    position:relative;
+    top:75px;
+    left:600px 
+}
+.footer{
+    width:100%;
+    height:1100px;
+    background-color: black;
+}
+.logo2{
+    width:60px;
+    height:60px;
+    position: relative;
+    top:60px;
+    left:160px;
+}
+.heading22{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:20px;
+    font-weight:400;
+    line-height: 44px;
+    color: #f6f6f6;
+    position: relative;
+    top:80px;
+    left:160px;
+}
+.heading23{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight:500;
+    line-height: 44px;
+    color: #f6f6f6;
+    position: relative;
+    top:140px;
+    left:160px;
+}
+.heading24{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight:500;
+    line-height: 44px;
+    color:#f6f6f6;
+    position: relative;
+    top:99px;
+    left:450px;
+}
+.heading25{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight:500;
+    line-height: 44px;
+    color:#f6f6f6;
+    position: relative;
+    top:56px;
+    left:680px;
+}
+.heading26{
+  
+    color:#f6f6f6;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight:500;
+    line-height: 44px;
+    position: relative;
+    top:13px;
+    left:1000px;
+}
+.content{
+    color:#f6f6f6;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight:400;
+    line-height: 44px;
+    position:relative;
+    bottom:-20px;
+    left:158px;
+}
+.content1{
+    color:#f6f6f6;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight:400;
+    line-height: 44px;
+    position:relative;
+    bottom:279px;
+    left:450px;
+}
+.content2{  
+    color:#f6f6f6;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight:400;
+    line-height: 44px;
+    position:relative;
+    bottom:550px;
+    left:686px;
+    
+}
+.content3{
+    color:#f6f6f6;  
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight:400;
+    line-height: 44px;
+    position:relative;
+    bottom:645px;
+    left:1002px;
+}
+.logo3{
+    width:150px;
+    height:150px;
+    position:relative;
+    bottom:300px;
+    left:142px;
+}
+.logo4{
+ width:150px;
+    height:150px;
+    position:relative;
+    bottom:300px;
+    left:148px;
+}
+
+
+.lasthead{
+    color:#FFFFFF;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight:400;
+    line-height: 44px;
+    position:relative;
+    left:148px;
+    bottom:300px;
+}
+.lasthead1{
+    color:#FFFFFF; 
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:15px;
+    font-weight:400;
+    line-height: 44px;
+    position:relative;
+    left:1200px;
+    bottom:347px;
+}
+
+
+
+
+
+
